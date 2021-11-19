@@ -11,6 +11,7 @@ Note: use the SSH key from the first Linux challenge to log into the box.
 3. `cd /home/nmapuser`
 4. `ls -la` and `cat flag.txt` -> `-r--------  1 nmapuser root       36 Jun 14  2019 flag.txt`
 5. I THING I NEED TO DO THE ROOT CHALLENGE BEFORE, because I need the root password
+6. 
 
 ## Flag
 ``

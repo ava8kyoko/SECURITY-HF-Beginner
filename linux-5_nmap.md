@@ -11,7 +11,8 @@ Note: use the SSH key from the first Linux challenge to log into the box.
 3. `cd /home/nmapuser`
 4. `ls -la` and `cat flag.txt` -> `-r--------  1 nmapuser root       36 Jun 14  2019 flag.txt`
 5. I THING I NEED TO DO THE SUDO AND VIM CHALLENGE BEFORE
-6. `sudo -u nmapuser /usr/bin/nmap -sT -Pn -p 22 -iL flag.txt`
+6. `sudo -u nmapuser /usr/bin/nmap -sT -Pn -p 22 -iL flag.txt` 
+or try this more simple way : `udo -u nmapuser nmap -iL flag.txt` ???
 
 ## Helpful reading
 <a href="https://security.stackexchange.com/questions/223931/nmap-how-can-i-input-a-target-to-nmap-from-a-file-with-the-netmask-attached">WHere I found the nmap command</a>

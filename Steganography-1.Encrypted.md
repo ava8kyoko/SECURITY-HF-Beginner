@@ -21,8 +21,24 @@ Check folder inside CTF-HF-2021
 gpg: AES.CFB encrypted data
 ```
 4. Use the password found in the last conversion
-5. `You found a flag! <ykhti36b2thircqwr31sm17x7wpxsj4b>` inside the text
-
+5. `ls` -> `FILE.zip FILE.zip.gpg`
+6. `file FILE.zip`
+```FILE.zip: Zip archive data, at least v2.0 to extract
+```
+7. `unzip FILE.zip`
+```Archive:  FILE.zip
+  inflating: FILE.jpg                
+ extracting: FLAG.txt
+```
+8. `ls` -> `FILE.jpg  FILE.zip  FILE.zip.gpg  FLAG.txt`
+9. `file FLAG.txt`
+```FILE.jpg: JPEG image data, JFIF standard 1.01, 
+aspect ratio, density 1x1, segment length 16, 
+baseline, precision 8, 640x400, components 3
+```
+10. `cat FLAG.txt`  
+```You found a flag! <ykhti36b2thircqwr31sm17x7wpxsj4b>
+```
 
 ## Flag
 `ykhti36b2thircqwr31sm17x7wpxsj4b`

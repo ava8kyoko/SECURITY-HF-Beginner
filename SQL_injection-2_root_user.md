@@ -1,4 +1,4 @@
-#  SQL injection - 2 - Get the root user. (4) 
+#  SQL injection - 2 - Get the root User. (4) 
 
 ## Challenge 
 SQL injection is probably one of the most common vectors of attack for poorly designed websites.

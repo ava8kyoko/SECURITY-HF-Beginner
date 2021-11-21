@@ -13,7 +13,3 @@ the page before the injection.
 
 ## Flag
 `HF-ni3c5f9q5cpd8zc1f2ognd29xiex32uw`
-
-inj - 4 
-' or 1 = 1 limit 4,4 --
-HF-si4qr0vzpg4kyxn0lizzmn9pcizpw9ae

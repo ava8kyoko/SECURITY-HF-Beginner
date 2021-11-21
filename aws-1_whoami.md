@@ -26,6 +26,14 @@ is not authorized to perform: iam:ListRoles on resource:
 arn:aws:iam::206175110892:role/
 
 ```
+5. OR like that : `aws sts get-caller-identity`
+```
+{
+    "UserId": "AIDATAAH6Q3WAYKDXJV5B",
+    "Account": "206175110892",
+    "Arn": "arn:aws:iam::206175110892:user/HF-0pI6PCRDMqLJkYkWHnZF94oobgYkmpiM"
+}
+```
 
 ## Flag
 `HF-0pI6PCRDMqLJkYkWHnZF94oobgYkmpiM`

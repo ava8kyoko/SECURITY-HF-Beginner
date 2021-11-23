@@ -1,13 +1,4 @@
-2 - The Real Password is Actually a Flag. 8
-
-Reverse engineering is the action of taking something, opening it, and understanding how it works. 
-This technique is often used to make no-CD cracks, bypass serial numbers and other activation methods. 
-OllyDBG is a tool that can help you do just that. Here is a simple program that can be reverse-engineered.
-
-(Use file from Flag #1)
-
-
- A totally legit spreadsheet. 8
+A totally legit spreadsheet. 8
 
 This spreadsheet consists of a single macro that, when executed, prints the flag. 
 However, this macro is protected with a password. Can you go around it?

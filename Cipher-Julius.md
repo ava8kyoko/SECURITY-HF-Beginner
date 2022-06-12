@@ -10,3 +10,11 @@ TROUVER LA BONNE FORMULE
 
 ## Flag
 `HF-ffbbe3e1627c71bfbe5ceed8cec9c6a9`
+
+
+# ihack 11 juin 2022
+
+`echo "XV-vvrru3u1627s71rvru5suut8sus9s6q9" | tr ‘q-za-pQ-ZA-P’ ‘a-zA-Z’` <br>
+
+## Flag
+`HF-ffbbe3e1627c71bfbe5ceed8cec9c6a9`
